@@ -12,4 +12,4 @@ steps (console)
 
 ![Grant Access Screenshot](Screenshot(14).png)
 You can also easily delete access by simply clicking on the mail and remove access
-![Grant Acess Screenshot](screenshot(15).png)
+![Grant Acess Screenshot](Screenshot(15).png)
