@@ -8,5 +8,3 @@ steps (console)
 3. select role: storage ->storage admin
 4. click save
 5. verify the user now appears in the IAM list, with the role assigned
-
-#GCP-SERVICE ACCOUNT
