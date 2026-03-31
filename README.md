@@ -6,10 +6,10 @@ steps (console)
 1. In your Google Cloud Console,  Go to **IAM & Admin → IAM**
 2. Click grant access, Enter the user’s email (e.g., 'alhassansulaiman5star@gmail.com`), in new principals. The principal's mail is the one that'll have access to your cloud storage. You are not limited to adding 1 principal, you can add as many principal as you wish.
 3. select role: storage ->storage admin
-4. ![Grant Access Screenshot](Screenshot(13).png) 
+4. ![Grant Access Screenshot](screenshot/Screenshot(13).png) 
 5. click save
 6. verify the user now appears in the IAM list, with the role assigned
 
-![Grant Access Screenshot](Screenshot(14).png)
+![Grant Access Screenshot](screenshot/Screenshot(14).png)
 You can also easily delete access by simply clicking on the mail and remove access
-![Grant Acess Screenshot](Screenshot(15).png)
+![Grant Acess Screenshot](screenshot/Screenshot(15).png)
