@@ -1,4 +1,6 @@
 # Service Account
+# This repository demonstrates how to configure Service Account in Google Cloud using the Console.
+#Scenario
 In yor Google Cloud Console, go to IAm -> Service Account
 Click on create service account
 Select any service account title of your choice(eg, Al-hassan-account)
