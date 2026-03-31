@@ -13,4 +13,4 @@ just click on the service account mail to create a key
 go to the third option that says key, and click on add key, Note: you can create multiple keys which is equivalent to multiple passwords
 After clicking on add key, click create new key and select json, it'll download a Json file in your browser
 Congratulations, you've successfully created a key
-![Grant Access Screenshot](screenshot/Screenshot(159).png)
+![Grant Access Screenshot](/screenshot/Screenshot(159).png)
